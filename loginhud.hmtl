@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<style> .center{
+text-align: center;
+}
+</style>
+<html lang="eng">
+<div class="center">
+<input type="username">
+<input type="password">
+<input type="submit">
+</div>
 
+</html>
